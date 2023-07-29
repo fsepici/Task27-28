@@ -31,7 +31,7 @@ public class IsbasvuruMain {
 
         System.out.println("-------------------------------------------");
 
-        task28.Task05.IMuhendis muhendis3 = new BilgisayarMuhendisi(false, false);
+        IMuhendis muhendis3 = new BilgisayarMuhendisi(false, false);
         IMuhendis muhendis4 = new MakineMuhendisi(false, false);
 
 
