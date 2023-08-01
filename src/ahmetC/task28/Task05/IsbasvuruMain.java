@@ -1,9 +1,5 @@
 package ahmetC.task28.Task05;
 
-import task28.Task05.BilgisayarMuhendisi;
-import task28.Task05.IMuhendis;
-import task28.Task05.MakineMuhendisi;
-
 public class IsbasvuruMain {
 
     public static void main(String[] args) {
@@ -31,7 +27,7 @@ public class IsbasvuruMain {
 
         System.out.println("-------------------------------------------");
 
-        task28.Task05.IMuhendis muhendis3 = new BilgisayarMuhendisi(false, false);
+        IMuhendis muhendis3 = new BilgisayarMuhendisi(false, false);
         IMuhendis muhendis4 = new MakineMuhendisi(false, false);
 
 

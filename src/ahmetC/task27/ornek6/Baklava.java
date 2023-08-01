@@ -1,7 +1,5 @@
 package ahmetC.task27.ornek6;
 
-import task27.ornek6.Sweet;
-
 public class Baklava extends Sweet {
 
 

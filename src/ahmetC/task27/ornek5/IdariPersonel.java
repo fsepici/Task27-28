@@ -1,7 +1,5 @@
 package ahmetC.task27.ornek5;
 
-import task27.ornek5.Personel;
-
 public class IdariPersonel extends Personel {
     @Override//mecbur implemen edilemli
     public void maasHesapla() {//Personel parent class'dan override abs meth.

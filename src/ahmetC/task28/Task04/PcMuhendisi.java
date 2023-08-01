@@ -1,7 +1,5 @@
 package ahmetC.task28.Task04;
 
-import task28.Task04.IMuhendis;
-
 public class PcMuhendisi implements IMuhendis {
 
     private boolean askerlik;

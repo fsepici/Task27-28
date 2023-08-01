@@ -1,11 +1,8 @@
 package ahmetC.task27.ornek5;
 
-import task27.ornek5.IdariPersonel;
-import task27.ornek5.Isci;
-
 public class Runner {
     public static void main(String[] args) {
-        task27.ornek5.Isci mrb1=new Isci();
+        Isci mrb1=new Isci();
         mrb1.maasBilgisi();//Agam marabalar cay-cüğara hariç günde 8 saat kürek mahkumu :(
         mrb1.maasHesapla();//agam marabalara en çok yeymiye 499 gayme verilir..
         mrb1.name="EbuBekir Güzel insan :-) ";

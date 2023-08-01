@@ -1,8 +1,5 @@
 package ahmetC.task27.ornek6;
 
-import task27.ornek6.Baklava;
-import task27.ornek6.SezarSalad;
-
 public class Runner {
     public static void main(String[] args) {
         Baklava b = new Baklava();

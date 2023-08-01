@@ -1,8 +1,5 @@
 package ahmetC.task28.Task04;
 
-import task28.Task04.ICalisma;
-import task28.Task04.IMuhendis;
-
 public class MakineMuhendisi implements IMuhendis, ICalisma {
 
     private boolean askerlik;

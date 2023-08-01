@@ -1,7 +1,5 @@
 package ahmetC.task28.task06;
 
-import task28.task06.ReadFile;
-
 public class DMGFile implements ReadFile {
 
     @Override
