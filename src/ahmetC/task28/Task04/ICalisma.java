@@ -1,4 +1,4 @@
-package ahmetC.task28.Task04;
+package AhmetC.task28.Task04;
 
 public interface ICalisma {
 

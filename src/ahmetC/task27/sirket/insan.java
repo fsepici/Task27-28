@@ -1,4 +1,4 @@
-package ahmetC.task27.sirket;
+package AhmetC.task27.sirket;
 
 public abstract class insan {
     private String isim;

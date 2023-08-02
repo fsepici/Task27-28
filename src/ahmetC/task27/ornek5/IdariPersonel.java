@@ -1,6 +1,4 @@
-package ahmetC.task27.ornek5;
-
-import task27.ornek5.Personel;
+package AhmetC.task27.ornek5;
 
 public class IdariPersonel extends Personel {
     @Override//mecbur implemen edilemli

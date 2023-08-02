@@ -1,4 +1,4 @@
-package ahmetC.task27.ornek5;
+package AhmetC.task27.ornek5;
 
 public abstract class Personel {
     String name ="Nur Hanım";

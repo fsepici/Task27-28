@@ -1,6 +1,4 @@
-package ahmetC.task27.ornek6;
-
-import task27.ornek6.Food;
+package AhmetC.task27.ornek6;
 
 public abstract class Sweet extends Food {
 

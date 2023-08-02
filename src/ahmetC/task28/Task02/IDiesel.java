@@ -1,6 +1,6 @@
-package ahmetC.task28.Task02;
+package AhmetC.task28.Task02;
 
 public interface IDiesel {
-
+void changeDiesel();
 
 }

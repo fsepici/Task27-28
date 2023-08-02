@@ -1,4 +1,4 @@
-package ahmetC.task27.ornek6;
+package AhmetC.task27.ornek6;
 
 public  abstract class Food {
 

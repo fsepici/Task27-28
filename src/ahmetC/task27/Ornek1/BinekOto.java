@@ -1,4 +1,4 @@
-package ahmetC.task27.Ornek1;
+package AhmetC.task27.Ornek1;
 
 // abstract anahtar kelimesi ile abstract class oluşturmuş oluyoruz.
 

@@ -1,4 +1,4 @@
-package ahmetC.task28.Task05;
+package AhmetC.task28.Task05;
 
 public interface IMuhendis {
 

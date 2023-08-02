@@ -1,6 +1,4 @@
-package ahmetC.task28.task06;
-
-import task28.task06.ReadFile;
+package AhmetC.task28.task06;
 
 public class PowePointFile implements ReadFile {
 

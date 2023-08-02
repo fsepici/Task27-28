@@ -1,8 +1,6 @@
-package ahmetC.task27.sirket;
+package AhmetC.task27.sirket;
 
-import task27.sirket.insan;
-
-public class Calisan extends task27.sirket.insan {
+public class Calisan extends insan {
     private int calisanId;
 
     public Calisan(String isim, String soyisim, int calisanId) {
@@ -25,8 +23,8 @@ public class Calisan extends task27.sirket.insan {
 
 
     public static void main(String[] args) {
-        task27.sirket.insan ogrenci = new Calisan("Ömer", "Özdemir", 0);
-        task27.sirket.insan sekreter = new Calisan("Hande", "Yılmaz", 123);
+        insan ogrenci = new Calisan("Ömer", "Özdemir", 0);
+        insan sekreter = new Calisan("Hande", "Yılmaz", 123);
         insan danisman = new Calisan("Hüseyin", "Özdemir", 22);
 
 

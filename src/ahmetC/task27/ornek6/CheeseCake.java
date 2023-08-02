@@ -1,6 +1,4 @@
-package ahmetC.task27.ornek6;
-
-import task27.ornek6.Sweet;
+package AhmetC.task27.ornek6;
 
 public class CheeseCake extends Sweet {
     @Override

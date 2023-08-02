@@ -1,6 +1,4 @@
-package ahmetC.task27.Ornek1;
-
-import task27.Ornek1.BinekOto;
+package AhmetC.task27.Ornek1;
 
 public class Ford extends BinekOto {
 

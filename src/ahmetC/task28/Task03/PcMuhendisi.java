@@ -1,6 +1,4 @@
-package ahmetC.task28.Task03;
-
-import task28.Task03.IMuhendis;
+package AhmetC.task28.Task03;
 
 public class PcMuhendisi implements IMuhendis {
 

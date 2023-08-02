@@ -1,6 +1,4 @@
-package ahmetC.task28.Task03;
-
-import task28.Task03.PcMuhendisi;
+package AhmetC.task28.Task03;
 
 public class Main {
 

@@ -1,6 +1,4 @@
-package ahmetC.task27.ornek5;
-
-import task27.ornek5.Personel;
+package AhmetC.task27.ornek5;
 
 public class Isci extends Personel {//abs Personel parent Clas'a extends->concrete child Isci class
     @Override//mecbur implemen edilemli

@@ -1,6 +1,4 @@
-package ahmetC.task28.task07;
-
-import task28.task07.Sailling;
+package AhmetC.task28.task07;
 
 public class Shark implements Sailling {
     @Override

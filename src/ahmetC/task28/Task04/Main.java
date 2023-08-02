@@ -1,8 +1,4 @@
-package ahmetC.task28.Task04;
-
-import task28.Task04.IMuhendis;
-import task28.Task04.MakineMuhendisi;
-import task28.Task04.PcMuhendisi;
+package AhmetC.task28.Task04;
 
 public class Main {
 

@@ -1,7 +1,4 @@
-package ahmetC.task27.ornek6;
-
-import task27.ornek6.Baklava;
-import task27.ornek6.SezarSalad;
+package AhmetC.task27.ornek6;
 
 public class Runner {
     public static void main(String[] args) {

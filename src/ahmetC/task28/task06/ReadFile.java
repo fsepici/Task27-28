@@ -1,4 +1,4 @@
-package ahmetC.task28.task06;
+package AhmetC.task28.task06;
 
 public interface ReadFile {
     public String open();
