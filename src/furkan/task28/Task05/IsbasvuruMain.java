@@ -1,9 +1,5 @@
 package furkan.task28.Task05;
 
-import task28.Task05.BilgisayarMuhendisi;
-import task28.Task05.IMuhendis;
-import task28.Task05.MakineMuhendisi;
-
 public class IsbasvuruMain {
 
     public static void main(String[] args) {

@@ -1,7 +1,5 @@
 package furkan.task28.task06;
 
-import task28.task06.ReadFile;
-
 public class PowePointFile implements ReadFile {
 
     @Override

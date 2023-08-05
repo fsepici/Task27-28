@@ -1,7 +1,5 @@
 package furkan.task27.ornek6;
 
-import task27.ornek6.Food;
-
 public abstract class Sweet extends Food {
 
   //  public abstract void madeIn();//abs meth childe'a zorla implement edilmesi için tanımlanır
