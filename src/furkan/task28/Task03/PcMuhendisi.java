@@ -1,7 +1,5 @@
 package furkan.task28.Task03;
 
-import task28.Task03.IMuhendis;
-
 public class PcMuhendisi implements IMuhendis {
 
     private boolean askerlik;

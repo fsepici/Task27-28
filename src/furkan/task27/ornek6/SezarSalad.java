@@ -1,7 +1,5 @@
 package furkan.task27.ornek6;
 
-import task27.ornek6.Salad;
-
 public class SezarSalad extends Salad {
     @Override
     public void madeIn() {

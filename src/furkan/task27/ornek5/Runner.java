@@ -1,8 +1,5 @@
 package furkan.task27.ornek5;
 
-import task27.ornek5.IdariPersonel;
-import task27.ornek5.Isci;
-
 public class Runner {
     public static void main(String[] args) {
         Isci mrb1=new Isci();

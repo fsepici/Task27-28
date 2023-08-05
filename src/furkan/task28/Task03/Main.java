@@ -1,7 +1,5 @@
 package furkan.task28.Task03;
 
-import task28.Task03.PcMuhendisi;
-
 public class Main {
 
     public static void main(String[] args) {

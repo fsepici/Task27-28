@@ -1,7 +1,5 @@
 package furkan.task27.ornek5;
 
-import task27.ornek5.Personel;
-
 public class Isci extends Personel {//abs Personel parent Clas'a extends->concrete child Isci class
     @Override//mecbur implemen edilemli
     public void maasHesapla() {//Personel parent class'dan override abs meth.

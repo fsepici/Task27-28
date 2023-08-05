@@ -1,7 +1,5 @@
 package furkan.task27.ornek6;
 
-import task27.ornek6.Sweet;
-
 public class CheeseCake extends Sweet {
     @Override
     public void madeIn() {

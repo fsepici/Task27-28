@@ -1,7 +1,20 @@
 package furkan.task27.Ornek3;
 
-import task27.Ornek3.IFood;
-
 public class AdanaKebap implements IFood {
+    void marinade(){
 
+    }
+     void grill(){
+
+     }
+
+    @Override
+    public void taste() {
+
+    }
+
+    @Override
+    public double ucret() {
+        return 100;
+    }
 }

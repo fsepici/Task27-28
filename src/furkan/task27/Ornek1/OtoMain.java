@@ -1,7 +1,5 @@
 package furkan.task27.Ornek1;
 
-import task27.Ornek1.Ford;
-
 public class OtoMain {
     public static void main(String[] args) {
         Ford ford1 = new Ford();

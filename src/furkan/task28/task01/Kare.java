@@ -1,7 +1,5 @@
 package furkan.task28.task01;
 
-import task28.task01.Dikdortgen;
-
-public class Kare extends Dikdortgen {
+public class Kare extends Dikdortgen{
 
 }

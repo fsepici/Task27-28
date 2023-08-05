@@ -1,7 +1,5 @@
 package furkan.task27.ornek6;
 
-import task27.ornek6.Food;
-
 public  abstract  class Salad  extends Food {
 
 

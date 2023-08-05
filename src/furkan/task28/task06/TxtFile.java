@@ -1,7 +1,5 @@
 package furkan.task28.task06;
 
-import task28.task06.ReadFile;
-
 public class TxtFile implements ReadFile {
     @Override
     public String open() {

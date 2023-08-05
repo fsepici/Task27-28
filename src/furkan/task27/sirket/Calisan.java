@@ -1,7 +1,5 @@
 package furkan.task27.sirket;
 
-import task27.sirket.insan;
-
 public class Calisan extends insan {
     private int calisanId;
 
